@@ -1,0 +1,39 @@
+[
+        {
+            "type":"module",
+            "personID":1,
+            "navn":"Martin Luther King",
+            "rolle":"Politiker"
+        },
+        {
+            "type":"module",
+            "personID":2,
+            "navn":"Nelson Mandela",
+            "rolle":"Politiker"
+        },
+        {
+            "type":"module",
+            "personID":3,
+            "navn":"Fridtjof Nansen",
+            "rolle":"Oppdager"
+        },
+        {
+            "type":"module",
+            "personID":4,
+            "navn":"Genghis Khan",
+            "rolle":"Hersker"
+        },
+        {
+            "type":"module",
+            "personID":5,
+            "navn":"George Washington",
+            "rolle":"Politisker"
+        },
+        {
+            "type":"module",
+            "personID":6,
+            "navn":"Donald Trump",
+            "rolle":"Politiker"
+        }
+    ]
+    
